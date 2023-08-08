@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['C:\\Users\\vtondlekar\\.spyder-py3\\temp.py', 'Very_Easy\\4Power_calculator.py', 'Very_Easy\\5Perimeter_of_rectangle.py', 'Very_Easy\\6string_as_integer.py', 'Easy\\1discount.py']
+recent_files = ['C:\\Users\\vtondlekar\\.spyder-py3\\temp.py', 'Very_Easy\\6string_as_integer.py', 'Easy\\1discount.py', 'Easy\\2stuttering_function.py', 'Easy\\3maxlength.py', 'Easy\\4basicVariableAssignment.py', 'Easy\\5lukeIamyour.py']
 
 [main]
 version = 0.2.0
